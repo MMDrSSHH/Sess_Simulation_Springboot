@@ -1,0 +1,5 @@
+courseId:4,examId:5
+courseId:4,examId:6
+courseId:9,examId:10
+courseId:9,examId:11
+courseId:9,examId:12

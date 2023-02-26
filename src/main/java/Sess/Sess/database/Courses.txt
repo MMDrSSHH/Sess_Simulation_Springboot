@@ -1,0 +1,2 @@
+id:4,title:Fall_AP_2023,syllabus:Learning OOP with CPP and Java programming languages,reference:OOP in CPP and Java 3rd edition,midterm:2022-11-15,final:2023-01-10
+id:9,title:Fall_DS_2023,syllabus:Data structures and Algorithms,reference:Introduction to algorithms and data structures,midterm:2022-10-20,final:2023-01-05
